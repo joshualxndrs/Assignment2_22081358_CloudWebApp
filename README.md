@@ -1,6 +1,8 @@
 # A2 - Joshua Alexander Silalahi - 22081358
 
-Please include your shared repository link here: https://github.com/joshualxndrs/Assignment2_22081358_CloudWebApp
+Please include your shared repository link here: 
+- (Task 1-5): https://github.com/joshualxndrs/Assignment2_22081358_CloudWebApp
+- Task (6): https://github.com/joshualxndrs/Bonus-Assignment2_22081358_CloudWebApp 
 
 ## PROJECT OVERVIEW
 This project implements a cloud-based web application integrating a React front-end, a Node.js backend, and a PostgreSQL database. It provides functionality for managing contacts, phones, and companies, including creating, updating, and deleting records through an intuitive user interface while ensuring seamless data synchronization with the backend APIs.
